@@ -24,5 +24,6 @@ int main()
         x_2 += x_2_i;
     }
 
-    // cout << x - x_2;
+    cout << x - x_2;
 }
+
