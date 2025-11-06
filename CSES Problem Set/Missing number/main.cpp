@@ -8,7 +8,7 @@ int main()
 
     int n  =0;
     long long x = 0;
-
+   
     cin >> n;
 
 
@@ -25,5 +25,6 @@ int main()
 
     cout << x - x_2;
 }
+
 
 
