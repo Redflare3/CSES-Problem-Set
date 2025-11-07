@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    long long n =0;
-
+    long long n = 0;
+//sjijsaiw
     cin >> n ;
     while (n != 1){
             cout << n << " ";
@@ -19,5 +19,6 @@ int main()
 
     return 0;
 }
+
 
 
