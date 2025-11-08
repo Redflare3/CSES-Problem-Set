@@ -7,10 +7,9 @@ int main()
    cin.tie(0);
 
     int n  =0;
-    long long x = 0;
+     x = 0;
    
     cin >> n;
-
 
     for (int i = 1 ; i <= n; i++){
         x += i;
@@ -25,6 +24,7 @@ int main()
 
     cout << x - x_2;
 }
+
 
 
 
