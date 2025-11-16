@@ -5,7 +5,7 @@ int main()
 {
     long long n = 0;
 
-    cin >> n;
+    
     while (n != 1)  {
             cout << n << " ";
          if (n % 2 == 0 ){
@@ -18,6 +18,7 @@ int main()
 
     return 0;
 }
+
 
 
 
