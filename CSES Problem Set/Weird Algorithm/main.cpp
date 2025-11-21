@@ -13,11 +13,11 @@ int main()
              
         }else {n = (n * 3) + 1;}
     }
-    cout << n;
     
-
+    cout << n;
     return 0;
 }
+
 
 
 
